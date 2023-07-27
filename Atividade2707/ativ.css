@@ -1,0 +1,23 @@
+h3 {
+    color:rgba(41, 121, 202, 0.986);
+  }
+  
+  .ali {
+    width: 450px;
+    border: 6px solid rgb(85, 103, 218);
+    height: 200px;
+    border-radius: 20px;
+    background-color: rgba(41, 121, 202, 0.269);
+  }
+
+  
+  button {
+    background-color: rgba(40, 103, 145, 0.622);
+    border: 0px
+    
+  }
+
+
+  h1 {
+    color:rgba(41, 121, 202, 0.685);
+  }
